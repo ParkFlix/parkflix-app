@@ -1,6 +1,9 @@
 # ParkFlix App
 
-## Descargar
+## Descargas
 
-Para descargar ParkFlix pinche el siguiente [enlace](https://github.com/ParkFlix/parkflix-download/releases/download/latest/parkflix.apk).
+Para descargar ParkFlix pinche el enlace correspondiente a su disposivo móvil:
+
+- [Android](https://github.com/ParkFlix/parkflix-download/releases/download/latest/parkflix.apk).
+- [iOS](https://github.com/ParkFlix/parkflix-download/releases/download/latest/parkflix.apk).
 
