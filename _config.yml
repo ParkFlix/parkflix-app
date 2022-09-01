@@ -1,3 +1,7 @@
 markdown: kramdown
-# theme: minima
-remote_theme: amitmerchant1990/reverie
+title: ParkFlix
+logo: /logo.png
+description: ParkFlix website.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
