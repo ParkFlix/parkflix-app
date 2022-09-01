@@ -1,6 +1,6 @@
 markdown: kramdown
 title: ParkFlix
-logo: /logo.png
+logo: /assets/img/logo.png
 description: ParkFlix website.
 show_downloads: false
 google_analytics:
