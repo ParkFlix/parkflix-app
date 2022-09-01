@@ -1,6 +1,8 @@
-## Cómo instalar ParkFlix en modo de pruebas
+## Cómo instalar ParkFlix
 
-¿Qué sistema operativo tiene tu móvil?
+Actualmente ParkFlix se encuentra en fase de pruebas, por lo que no podrás instalarla aún desde **PlayStore** (Android) ni **AppStore** (iOS/iPhone).
+
+Para poder explicarte como instalar la aplicación en tu móvil, indícanos que sistema operativo tiene tu móvil, por favor:
 
 - [Android](android).
 - iOS (no disponible aún).
