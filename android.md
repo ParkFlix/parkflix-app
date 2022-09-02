@@ -12,11 +12,11 @@ En unos días **te enviaremos un e-mail** con instrucciones para descargar e ins
 
 ## Instalar ParkFlix en tu móvil
 
-Si has recibido **e-mail para descargar la app de ParkFlix**, y aún así tienes dudas, sigue los siguientes pasos:
+Si has recibido el **e-mail para descargar la app de ParkFlix**, y aún así tienes dudas, sigue los siguientes pasos:
 
 > Como vamos a instalar la app de ParkFlix sin usar la **Play Store**, que es la vía oficial y segura de instalar aplicaciones en Android, el sistema nos mostrará una serie de avisos al respecto.
 
-1. Pulsa el botón **Download the latest build** del e-mail.)
+1. Pulsa el botón **Download the latest build** del e-mail:
 
 	![Descargar la última versión](assets/img/firebase-app-distribution-email.jpg)
 
@@ -28,7 +28,7 @@ Si has recibido **e-mail para descargar la app de ParkFlix**, y aún así tienes
 
 	![Aviso de riesgo en la descarga](assets/img/app-download-warning.jpg)
 
-4. Una vez descargada la app, la abrimos para iniciar su instalación:
+4. Abrimos la app recién descargada para iniciar su instalación:
 
 	![Abrir la descarga](assets/img/open-downloaded-app.jpg)
 
