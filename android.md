@@ -50,4 +50,4 @@ Si has recibido el **e-mail para descargar la app de ParkFlix**, y aún así tie
 
 Y proceso completado, ya hemos instalado ParkFlix en nuestro dispositivo:
 
-	![ParkFlix instalado](assets/img/parkflix-installed.jpg)
+![ParkFlix instalado](assets/img/parkflix-installed.jpg)
