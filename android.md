@@ -1,7 +1,13 @@
-## Instalar ParkFlix en Android
+## Cómo instalar la app <u>ParkFlix</u> en Android
 
-Sigue los siguientes pasos para instalar la app de ParkFlix desde nuestra web:
+Sigue los siguientes pasos para instalar la app de **ParkFlix** en tu móvil **Android**:
 
-1. Descargar ParkFlix desde el siguiente [enlace](https://github.com/ParkFlix/parkflix-website/releases/download/v0.2.2/parkflix-0.2.2.apk).
+1. **Regístrate** en **Firebase App Distribution** con el enlace que te proporcionamos o escaneando el código QR:
+   
+   ![](assets/img/firebase-app-distribution-register.jpg)
+   
+   Una vez te hayas registrado, **te enviaremos un email con instrucciones** para descargar e instalar la app de **ParkFlix** en tu móvil.
 
-2. 
+2. Pulsa el botón **Download the latest build** para descargar la aplicación.
+
+3. 
